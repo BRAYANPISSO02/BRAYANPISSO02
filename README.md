@@ -5,7 +5,7 @@ Universidad Nacional de Colombia — Manizales
 
 I build systems at the intersection of **Machine Learning, Embedded Electronics, and Industrial IoT**. My work focuses on automating technical workflows—from training and deploying computer vision models on AWS to designing PCB hardware and long-range telemetry networks.
 
-[Portfolio](https://brayanpisso02.github.io/PageBrayanPissoCV/) · [LinkedIn](https://www.linkedin.com/in/brayan-ricardo-pisso-ramirez-8a089a363) · [Email](mailto:bpisso@unal.edu.co)
+[Portfolio](https://brayanpisso02.github.io/) · [LinkedIn](https://www.linkedin.com/in/brayan-ricardo-pisso-ramirez-8a089a363) · [Email](mailto:bpisso@unal.edu.co)
 
 ---
 
